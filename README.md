@@ -20,3 +20,4 @@ This Repository is to learn frontend and backend development
 5. https://www.youtube.com/playlist?list=PL7zl8TDRnbukt0zKDS0twgOQqHPHvE7ks -- Backend Web Development using JavaScript, CSS & Express [DevTown]
 6. https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt -- React Js Tutorials in Hindi [CodeWithHarry]
 7. https://www.youtube.com/playlist?list=PL-Jc9J83PIiEnK1q9tuVrrORqKBexcE_J -- Backend Development with express [Pepcoding]
+8. https://www.codewithharry.com/videos/python-django-tutorials-hindi-0/    -- 
