@@ -10,12 +10,12 @@ This Repository is to learn frontend and backend development
 ## Videos
 1. https://www.youtube.com/watch?v=mSUKMfmLAt0 -Build and Deploy a Fullstack Reddit Clone: Next.js 13, React, Tailwind, Auth, Prisma, MySQL
 2. https://www.youtube.com/watch?v=986hztrfaSQ -- Build and Deploy a Full Stack Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
-3. www.youtube.com/watch?v=SqcY0GlETPk& -- React Tutorial for Beginners [Programming with Mosh]
-4. https://www.youtube.com/watch?v=G8PWDBJspME& -- Learn React in 90 Minutes | React Main Concepts | React Crash Course 2022
-5. https://www.youtube.com/watch?v=jrKcJxF0lAU -- React with TypeScript Crash Course[Laith Academy]
+
 
 ## <ins<Learnings</ins>
 1. https://www.youtube.com/watch?v=b9eMGE7QtTk -- React JS Full Course 2023 | Build an App and Master React in 1 Hour[JavaScript Mastery]
+2. https://www.youtube.com/watch?v=G8PWDBJspME& -- Learn React in 90 Minutes | React Main Concepts | React Crash Course 2022
+3. https://www.youtube.com/watch?v=jrKcJxF0lAU -- React with TypeScript Crash Course[Laith Academy]
 
 ## Projects
 
