@@ -1,7 +1,7 @@
 # web-dev
 This Repository is to learn frontend and backend development
 
-## YT Channels
+## <ins>YT Channels</ins>
 1. https://www.youtube.com/@javascriptmastery
 2. https://www.youtube.com/@freecodecamp/playlists
 3. https://www.youtube.com/@Pepcoding
