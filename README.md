@@ -7,7 +7,7 @@ This Repository is to learn frontend and backend development
 3. https://www.youtube.com/@Pepcoding
 
 
-## Videos
+## <ins>Videos</ins>
 1. https://www.youtube.com/watch?v=mSUKMfmLAt0 -Build and Deploy a Fullstack Reddit Clone: Next.js 13, React, Tailwind, Auth, Prisma, MySQL
 2. https://www.youtube.com/watch?v=986hztrfaSQ -- Build and Deploy a Full Stack Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
 
