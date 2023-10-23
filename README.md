@@ -15,6 +15,7 @@ This Repository is to learn frontend and backend development
 2. [Link](https://www.youtube.com/watch?v=986hztrfaSQ) -- Build and Deploy a Full Stack Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
 3. [Link](https://www.youtube.com/watch?v=iBDHvfjKAAo&) -- Building ChatGPT Clone with ReactJS and OpenAI - TopNotch Programmer
 4. [Link](https://www.youtube.com/watch?v=tjyZQzI1YQk) -- Next.js 13 Project Tutorial with Routing | Tailwind CSS Typescript - Developer George
+5. [Link](https://www.youtube.com/watch?v=ZU-drSVodBw) -- React JS & Tailwind CSS Responsive Website - Beginner Friendly[Code Commerce]
 
 
 ## <ins>Learnings</ins>
