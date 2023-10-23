@@ -6,6 +6,9 @@ This Repository is to learn frontend and backend development
 2. [freecodecamp](https://www.youtube.com/@freecodecamp/playlists)
 3. [Pepcoding](https://www.youtube.com/@Pepcoding)
 
+## <ins>Playlists</ins>
+1. [React.js Real-World Projects- Lama Dev](https://www.youtube.com/playlist?list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8)
+
 
 ## <ins>Videos</ins>
 1. [Link](https://www.youtube.com/watch?v=mSUKMfmLAt0) -Build and Deploy a Fullstack Reddit Clone: Next.js 13, React, Tailwind, Auth, Prisma, MySQL
