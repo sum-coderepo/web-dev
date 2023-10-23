@@ -21,6 +21,7 @@ This Repository is to learn frontend and backend development
 1. [Link](https://www.youtube.com/watch?v=b9eMGE7QtTk) -- React JS Full Course 2023 | Build an App and Master React in 1 Hour[JavaScript Mastery]
 2. [Link](https://www.youtube.com/watch?v=G8PWDBJspME&) -- Learn React in 90 Minutes | React Main Concepts | React Crash Course 2022
 3. [Link](https://www.youtube.com/watch?v=jrKcJxF0lAU) -- React with TypeScript Crash Course[Laith Academy]
+4. [Link](https://www.youtube.com/watch?v=WlxcujsvcIY) -- TypeScript for React/Next.js Developers | TypeScript Tutorial for Beginners[Lama Dev]
 
 ## <ins>Projects</ins>
 
