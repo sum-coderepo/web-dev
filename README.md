@@ -20,7 +20,7 @@ This Repository is to learn frontend and backend development
 ## <ins>Projects</ins>
 
 ## Full course
-1. https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK -- React TypeScript Tutorial for Beginners [Codevolution]
+1. [link](https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK) -- React TypeScript Tutorial for Beginners [Codevolution]
 2. https://www.youtube.com/playlist?list=PLuHGmgpyHfRx9e7yeOaaL79_L_mBFBHLc -- React Typescript Tutorials In Hindi [Techinfo YT]
 3. https://www.youtube.com/playlist?list=PL2PkZdv6p7ZlyNpuEEt4ByfUpUqGadnMy -- Full Course React with TypeScript in Hindi [Coder Dost]
 4. https://www.youtube.com/playlist?list=PL-Jc9J83PIiEnK1q9tuVrrORqKBexcE_J -- Backend Development with express [Pepcoding]
