@@ -2,9 +2,9 @@
 This Repository is to learn frontend and backend development
 
 ## <ins>YT Channels</ins>
-1. https://www.youtube.com/@javascriptmastery
-2. https://www.youtube.com/@freecodecamp/playlists
-3. https://www.youtube.com/@Pepcoding
+1. [javascriptmastery](https://www.youtube.com/@javascriptmastery)
+2. [freecodecamp](https://www.youtube.com/@freecodecamp/playlists)
+3. [Pepcoding](https://www.youtube.com/@Pepcoding)
 
 
 ## <ins>Videos</ins>
