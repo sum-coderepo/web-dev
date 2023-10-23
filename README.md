@@ -23,6 +23,7 @@ This Repository is to learn frontend and backend development
 2. [Link](https://www.youtube.com/watch?v=G8PWDBJspME&) -- Learn React in 90 Minutes | React Main Concepts | React Crash Course 2022
 3. [Link](https://www.youtube.com/watch?v=jrKcJxF0lAU) -- React with TypeScript Crash Course[Laith Academy]
 4. [Link](https://www.youtube.com/watch?v=WlxcujsvcIY) -- TypeScript for React/Next.js Developers | TypeScript Tutorial for Beginners[Lama Dev]
+5. [Link](https://www.youtube.com/watch?v=MsnQ5uepIaE) -- Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React)[freeCodeCamp)
 
 ## <ins>Projects</ins>
 
