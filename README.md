@@ -13,6 +13,8 @@ This Repository is to learn frontend and backend development
 ## <ins>Videos</ins>
 1. [Link](https://www.youtube.com/watch?v=mSUKMfmLAt0) -Build and Deploy a Fullstack Reddit Clone: Next.js 13, React, Tailwind, Auth, Prisma, MySQL
 2. [Link](https://www.youtube.com/watch?v=986hztrfaSQ) -- Build and Deploy a Full Stack Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
+3. [Link](https://www.youtube.com/watch?v=iBDHvfjKAAo&) -- Building ChatGPT Clone with ReactJS and OpenAI - TopNotch Programmer
+4. [Link](https://www.youtube.com/watch?v=tjyZQzI1YQk) -- Next.js 13 Project Tutorial with Routing | Tailwind CSS Typescript - Developer George
 
 
 ## <ins>Learnings</ins>
