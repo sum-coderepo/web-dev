@@ -5,7 +5,7 @@ This Repository is to learn frontend and backend development
 1. [javascriptmastery](https://www.youtube.com/@javascriptmastery)
 2. [freecodecamp](https://www.youtube.com/@freecodecamp/playlists)
 3. [Pepcoding](https://www.youtube.com/@Pepcoding)
-4. [DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode/videos)
+4. [DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode/videos) -- Next.js related
 
 ## <ins>Playlists</ins>
 1. [React.js Real-World Projects- Lama Dev](https://www.youtube.com/playlist?list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8)
